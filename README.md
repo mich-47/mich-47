@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @mich-47
+- 👀 I’m interested in - Embedded systems and game modding
+- 🌱 I’m currently learning - Java 
+- 💞️ I’m looking to collaborate on - Most things pertaining to my interests
+- 📫 How to reach me - mich_47 on discord
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I started coding using LUA for a game called Garry's Mod back in 2012
+- Languages I have used before - Python, C++, C#, LUA, SQL, HTML/CSS, Java(WIP)
